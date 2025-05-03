@@ -1,0 +1,15 @@
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\bin\Debug\net9.0\distancias entre kilómetros y millas.exe
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\bin\Debug\net9.0\distancias entre kilómetros y millas.deps.json
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\bin\Debug\net9.0\distancias entre kilómetros y millas.runtimeconfig.json
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\bin\Debug\net9.0\distancias entre kilómetros y millas.dll
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\bin\Debug\net9.0\distancias entre kilómetros y millas.pdb
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.AssemblyInfoInputs.cache
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.AssemblyInfo.cs
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.sourcelink.json
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.dll
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\refint\distancias entre kilómetros y millas.dll
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.pdb
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\distancias entre kilómetros y millas.genruntimeconfig.cache
+C:\Users\Edgar Ozorio\source\repos\distancias entre kilómetros y millas\distancias entre kilómetros y millas\obj\Debug\net9.0\ref\distancias entre kilómetros y millas.dll
