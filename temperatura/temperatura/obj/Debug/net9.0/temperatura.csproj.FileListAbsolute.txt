@@ -1,0 +1,14 @@
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\bin\Debug\net9.0\temperatura.exe
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\bin\Debug\net9.0\temperatura.deps.json
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\bin\Debug\net9.0\temperatura.runtimeconfig.json
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\bin\Debug\net9.0\temperatura.dll
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\bin\Debug\net9.0\temperatura.pdb
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.AssemblyInfoInputs.cache
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.AssemblyInfo.cs
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.dll
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\refint\temperatura.dll
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.pdb
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\temperatura.genruntimeconfig.cache
+C:\Users\Edgar Ozorio\source\repos\temperatura\temperatura\obj\Debug\net9.0\ref\temperatura.dll
